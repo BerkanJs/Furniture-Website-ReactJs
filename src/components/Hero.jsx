@@ -3,14 +3,14 @@ import {hero } from '../data/mockData'
 import Stats from '../components/Stats'
 import {motion} from "framer-motion"
 import{FadeUp} from '../utility/animation'
-import bgphoto from '../../public/img/NewsLetter.webp'
+import bgphoto1 from '../../public/img/BG2.jpg'
 const Hero = () => {
   const{title ,subtitle,buttonText}=hero;
   return (
     
     <section className='h-full'> 
       <div
-        style={{backgroundImage:`url(${bgphoto})`}}
+        style={{backgroundImage:`url(${bgphoto1})`}}
 
        className='container mx-auto  bg-center bg-cover bg-no-repeat text-white h-[850px] pt-[225px] pb-[254px] relative mb-12 lg:bg-center lg:mb-28'>
         <div
