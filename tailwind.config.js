@@ -12,8 +12,8 @@ export default {
     },
 
     backgroundImage:{
-      'hero1':"url('./src/img/BG2.jpg')",
-      'NewsLetter':"url('./src/img/NewsLetter.webp')"
+      'hero1':"url('./public/img/BG2.jpg')",
+      'NewsLetter':"url('./public/img/NewsLetter.webp')"
 
     },
     container: {

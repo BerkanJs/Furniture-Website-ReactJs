@@ -10,32 +10,32 @@ import {
   } from 'react-icons/io';
   
   // import images
-  import HERO1 from '../img/HERO1.jpg';
-  import HERO2 from '../img/HERO2.jpg';
-  import HERO3 from '../img/HERO3.jpg';
-  import PG1 from '../img/productIMG/PG1.jpg';
-  import PG2 from '../img/productIMG/PG2.jpg';
-  import PD9 from '../img/productIMG/PD9.jpg';
-  import P1 from '../img/productIMG/P1.jpg';
-  import P2 from '../img/productIMG/P2.jpg';
-  import P3 from '../img/productIMG/P3.jpg';
-  import P5 from '../img/productIMG/P5.jpg';
-  import P6 from '../img/productIMG/P6.jpg';
-  import PD1 from '../img/productIMG/PD1.jpg';
-  import PD2 from '../img/productIMG/PD2.jpg';
-  import PD3 from '../img/productIMG/PD3.jpg';
-  import PD4 from '../img/productIMG/PD4.jpg';
-  import PD5 from '../img/productIMG/PD5.jpg';
-  import PD6 from '../img/productIMG/PD6.jpg';
-  import PD7 from '../img/productIMG/PD7.jpg';
-  import PD8 from '../img/productIMG/PD8.jpg';
-  import PD10 from '../img/productIMG/PD10.jpg';
-  import Person1 from '../img/Person1.jpg';
-  import Person2 from '../img/Person2.webp';
-  import Person3 from '../img/Person3.jpg';
-  import Person4 from '../img/Person4.jpg';
-  import Person5 from '../img/Person5.png';
-  import ROOMDESİGN1 from '../img/ROOMDESİGN1.JPG'
+  import HERO1 from '../../public/img/HERO1.jpg';
+  import HERO2 from '../../public/img/HERO2.jpg';
+  import HERO3 from '../../public/img/HERO3.jpg';
+  import PG1 from '../../public/img/productIMG/PG1.jpg';
+  import PG2 from '../../public/img/productIMG/PG2.jpg';
+  import PD9 from '../../public/img/productIMG/PD9.jpg';
+  import P1 from '../../public/img/productIMG/P1.jpg';
+  import P2 from '../../public/img/productIMG/P2.jpg';
+  import P3 from '../../public/img/productIMG/P3.jpg';
+  import P5 from '../../public/img/productIMG/P5.jpg';
+  import P6 from '../../public/img/productIMG/P6.jpg';
+  import PD1 from '../../public/img/productIMG/PD1.jpg';
+  import PD2 from '../../public/img/productIMG/PD2.jpg';
+  import PD3 from '../../public/img/productIMG/PD3.jpg';
+  import PD4 from '../../public/img/productIMG/PD4.jpg';
+  import PD5 from '../../public/img/productIMG/PD5.jpg';
+  import PD6 from '../../public/img/productIMG/PD6.jpg';
+  import PD7 from '../../public/img/productIMG/PD7.jpg';
+  import PD8 from '../../public/img/productIMG/PD8.jpg';
+  import PD10 from '../../public/img/productIMG/PD10.jpg';
+  import Person1 from '../../public/img/Person1.jpg';
+  import Person2 from '../../public/img/Person2.webp';
+  import Person3 from '../../public/img/Person3.jpg';
+  import Person4 from '../../public/img/Person4.jpg';
+  import Person5 from '../../public/img/Person5.png';
+  import ROOMDESİGN1 from '../../public/img/ROOMDESİGN1.jpg'
 
   
   export const navigation = [
