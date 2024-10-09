@@ -1,10 +1,11 @@
 import React from 'react'
 import{newsletter} from '../data/mockData'
+import bgphoto from '../../public/img/NewsLetter.webp'
 
 const NewsLetter = () => {
   const{title,subtitle,placeholder,buttonText}=newsletter;
   return (
-    <section className='section bg-NewsLetter min-h-[490px] '>
+    <section style={{backgroundImage:`url(${bgphoto})`}} className='section min-h-[490px] '>
       <div className='container mx-auto flex justify-center lg:justify-end'>
         <div className='w-full max-w-[558px] text-center text-[#605041] lg:text-left'>
           <h2 className='text-4xl font-semibold max-w-[350px] mx-auto lg:mx-0 mb-5 leading-normal'>{title}</h2>
